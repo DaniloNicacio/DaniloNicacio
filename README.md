@@ -6,7 +6,7 @@
 - 🔭 I am currently working at the Department of Technology and Information - Amazon Military Police.
 - 🌱 I am currently learning Flutter and TypeScript.
 - 📫 What is the best way to contact me? danilonicacio2016@gmail.com
-- 🐱 Check out my [portfolio](https://danilonicacio.github.io/)
+- 🐱 Check out my [portfolio](https://danilonicacio.dev/)
 
 
 ### Technologies I use to Program / Develop
