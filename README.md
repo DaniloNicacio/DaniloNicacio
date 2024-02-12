@@ -53,7 +53,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniloNicacio&repo=discord-bot&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/DaniloNicacio/discord-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniloNicacio&repo=Sand-Simulation&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/DaniloNicacio/Sand-Simulation)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniloNicacio&repo=cutebotytd&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/DaniloNicacio/cutebotytd)
 </div>
 
 <hr>
