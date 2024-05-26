@@ -49,5 +49,3 @@
 <a href="mailto:danilonicacio2016@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 <a href="https://www.linkedin.com/in/danilo-nicacio-4ab915210/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 ---
-
-Let me know if you need any more adjustments!
