@@ -4,7 +4,7 @@
 
 - 😄 I am a Computer Science Graduate.
 - 🔭 I am currently working at Projex Consulting.
-- 📫 What is the best way to contact me? danilonicacio2016@gmail.com
+- 📫 What is the best way to contact me? contact@danilonicacio.dev
 - 🐱 Check out my [portfolio](https://danilonicacio.dev/)
 
 
